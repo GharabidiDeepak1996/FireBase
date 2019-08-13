@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AuthenticationDemo</string>
+    <string name="may_i_ask_you_phone_number">may_i_ask_you_phone_number</string>
+    <string name="enter_your_number">enter_your_number</string>
+    <string name="submit">submit</string>
+    <string name="enter_verification_code">enter_verification_code</string>
+    <string name="welcome_to_your_profile">Welcome to Your Profile</string>
+    <string name="logout">Logout</string>
+</resources>

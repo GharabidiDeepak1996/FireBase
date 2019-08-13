@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219138471972",
+    "firebase_url": "https://databasedemo-90a6f.firebaseio.com",
+    "project_id": "databasedemo-90a6f",
+    "storage_bucket": "databasedemo-90a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219138471972:android:16a7cda9f114737b",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219138471972-50q8s3kaqubddm9t6b36rtkbbjbaggvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedatabasedemo",
+            "certificate_hash": "27a23b7c06635608dca9532b960b3f3f6782a32e"
+          }
+        },
+        {
+          "client_id": "219138471972-k8cefe6j09l0i6bps6jeo1hukmglhc81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jpEH9u-DFFDnziY-PwjuK6MaQBXMm_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219138471972-k8cefe6j09l0i6bps6jeo1hukmglhc81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

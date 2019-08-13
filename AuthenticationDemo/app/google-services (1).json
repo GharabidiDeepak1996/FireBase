@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920971244171",
+    "firebase_url": "https://authenticationdemo-ec8fb.firebaseio.com",
+    "project_id": "authenticationdemo-ec8fb",
+    "storage_bucket": "authenticationdemo-ec8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920971244171:android:93e9b775fce78f4d",
+        "android_client_info": {
+          "package_name": "com.example.authenticationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920971244171-hcf738lbvhac99m3pjmpsp3mu0ekj4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeQFc8LV0AYmmwDuEgCsJDEKsuJF-pS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920971244171-hcf738lbvhac99m3pjmpsp3mu0ekj4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseDemo</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="button">button</string>
+
+</resources>
